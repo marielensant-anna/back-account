@@ -35,7 +35,7 @@ public class BankAccount {
         System.out.println("Digite o saldo da conta do Cliente: ");
         balance = scanner.nextInt();
         
-        System.out.println("Olá " + clientName + ", obrigado por criar uma conta em nosso banco, sua agência é " + agency + ". O número da conta é: "  + accountNumber + ". E o seu saldo no valor de: " + balance + "está disponível para saque!" );
+        System.out.println("Olá " + clientName + ", obrigado por criar uma conta em nosso banco! Sua agência é " + agency + ". O número da conta é: "  + accountNumber + ". E o seu saldo no valor de: " + balance + " está disponível para saque!" );
         
         
         
